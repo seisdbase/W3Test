@@ -13,6 +13,7 @@ var summaries = new[]
 
 //CHange on remote local branch
 //CHange on remote local branch 2
+//CHange on remote local branch 3
 
 var products = new[]
 {
