@@ -12,7 +12,6 @@ var summaries = new[]
 };
 
 
-
 var products = new[]
 {
     "bike", "car"
